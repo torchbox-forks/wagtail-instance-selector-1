@@ -1,10 +1,10 @@
 Changelog
 =========
 
-### Unrelease
+### 3.0.0 (2023-07-25)
 
-- Add support for Wagtail 3.0 and drop support for all Wagtail versions before 2.15.
-  PR: https://github.com/ixc/wagtail-instance-selector/pull/28
+- Integrate all outstanding Wagtail upgrades.
+  PR: https://github.com/torchbox-forks/wagtail-instance-selector/pull/2
   
 ### 2.1.2
 
