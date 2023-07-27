@@ -1,7 +1,7 @@
 Changelog
 =========
 
-### 3.0.0 (2023-07-25)
+### 3.0.6 (2023-07-25)
 
 - Integrate all outstanding Wagtail upgrades.
   PR: https://github.com/torchbox-forks/wagtail-instance-selector/pull/2
